@@ -4,6 +4,7 @@
 - Pandas
 - Matplotlib
 - Seaborn
+
 Файлы содержат:
 
 1. Исходный .csv файл, скачанный с ресурса https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
